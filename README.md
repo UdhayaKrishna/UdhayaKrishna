@@ -11,7 +11,12 @@
 
 ### About me
 
-10+ years building scalable backend systems and cloud infrastructure at Fortune 500 scale — currently a **Software Engineer III at Walmart Global Tech**, previously an **Application Engineer at Amazon**. I work at the intersection of application engineering and platform reliability: Java/Spring Boot microservices, Kubernetes, Kafka, CI/CD, and AI-assisted developer tooling.
+Performance-driven Senior Software Engineer (Individual Contributor) with **10 years of overall IT industry experience**, including **5+ years of core backend software engineering** at Fortune 500 product leaders — currently a **Software Engineer III at Walmart Global Tech**, previously an **Application Engineer at Amazon**. I work at the intersection of application engineering and platform reliability: Java/Spring Boot microservices, Kubernetes, Kafka, CI/CD, and AI-assisted developer tooling.
+
+| | |
+|---|---|
+| 🧭 **10 yrs** | Total IT industry experience (systems/automation foundations → backend engineering) at Walmart & Amazon |
+| ⚙️ **5+ yrs** | Core backend software engineering (Java/Spring Boot microservices, cloud, DevOps) at Walmart |
 
 - 🔭 Currently leading large-scale infrastructure migrations and building AI-driven operational tooling for a Transportation Management System
 - 🛠️ Led the migration of **1,014 OneOps assemblies** and **128 applications** from CentOS to Ubuntu with zero production downtime
@@ -52,16 +57,23 @@
 
 ### Experience snapshot
 
-```text
-$ career --log --format=short
+```
+$ career --log --format=short --total=10yrs
 
-[2021 – 2026]  Software Engineer III · Walmart Global Tech
-               → AI-driven ops tooling · 1,014-assembly OS migration · zero-downtime infra
+[2021 – 2026]  Software Engineer III · Walmart Global Tech            ┐  5+ yrs          ┐
+               → AI-driven ops tooling                                │  core backend    |
+               → 1,014-assembly OS migration                          │  engineering     | Total IT industry
+               → zero-downtime infra                                  ┘                  | 10-yr experience
+                                                                                         │ (systems/automation    
+[2016 – 2021]  Application Engineer · Amazon Development Centre                          │ foundations → backend
+               → Kindle Analyzer (96% faster)                                            │ engineering)
+               → serverless RFID inventory                                               │
+               → COPPA/GDPR compliance pipeline                                          ┘
 
-[2016 – 2021]  Application Engineer · Amazon Development Centre
-               → Kindle Analyzer (96% faster) · serverless RFID inventory · COPPA/GDPR pipeline
-
-[2011 – 2016]  M.S. Software Engineering · Sri Krishna College of Engineering & Technology
+[2011 – 2016]  M.S. Software Engineering (5-yr integrated)            ┐  
+               Sri Krishna College of Engineering & Technology        │  foundation
+               → Java, data structures & OOD                          │  years
+               → scripting (Shell/Python/Perl) & automation           ┘  
 ```
 
 ---
